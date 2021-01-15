@@ -10,16 +10,16 @@ Tendo como inspiração essa técnica milenar, o presente Trabalho de Conclusão
 O presente trabalho foi desenvolvido inteiramente usando a linguagem de programação Python com o auxílio de bibliotecas específicas de Deep Learning como o Tensorflow e Keras, uma vez que estas ferramentas tem ganhado muito destaque na área de Inteligência Artificial. Usou-se como estrutura inicial as camadas convolucionais da Rede Neural VGG16 que já conhecida por bons resultados em reconhecimento de imagens. Como otimizador para o treinamento, foi escolhido o Stochastic Gradient Descent (SGD).
 
 ## Parâmetros
-Tamanho incial do Dataset:
-Quantidade de constelações trabalhadas: 4
-Rede Usada para Transfer Learning: VGG16
-Otimizador: Stochastic Gradient Descent (SGD)
-Taxa de Aprendizado Inicial: 1e-3
-Função de Erro: "categorical_crossentropy"
-Métrica: Accuracy
-Épocas: (Inicialmente) 1000; (Early Stopping) 713
-Early Stopping Patience: 40
-Reduce LR On Plateau Patience: 20; Factor: 0.5
+- Tamanho incial do Dataset:
+- Quantidade de constelações trabalhadas: 4
+- Rede Usada para Transfer Learning: VGG16
+- Otimizador: Stochastic Gradient Descent (SGD)
+- Taxa de Aprendizado Inicial: 1e-3
+- Função de Erro: "categorical_crossentropy"
+- Métrica: Accuracy
+- Épocas: (Inicialmente) 1000; (Early Stopping) 713
+- Early Stopping Patience: 40
+- Reduce LR On Plateau Patience: 20; Factor: 0.5
 
 ## Treinamento
 
@@ -28,6 +28,6 @@ Reduce LR On Plateau Patience: 20; Factor: 0.5
 ## Resultados
 
 Accuracy
-Train set: 0.94
-Validation set: 0.90
-Test set: 0.84
+- Train set: 0.94
+- Validation set: 0.90
+- Test set: 0.84
