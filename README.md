@@ -18,17 +18,7 @@ O presente trabalho foi desenvolvido inteiramente usando a linguagem de programa
 - opencv2 4.1.2
 
 ## Parâmetros
-Tamanho incial do Dataset:
-Quantidade de constelações trabalhadas: 4
-Rede Usada para Transfer Learning: VGG16
-Otimizador: Stochastic Gradient Descent (SGD)
-Taxa de Aprendizado Inicial: 1e-3
-Função de Erro: "categorical_crossentropy"
-Métrica: Accuracy
-Épocas: (Inicialmente) 1000; (Early Stopping) 713
-Early Stopping Patience: 40
-Reduce LR On Plateau Patience: 20; Factor: 0.5
-- Tamanho incial do Dataset:
+- Tamanho incial do Dataset: 27
 - Quantidade de constelações trabalhadas: 4
 - Rede Usada para Transfer Learning: VGG16
 - Otimizador: Stochastic Gradient Descent (SGD)
@@ -56,3 +46,6 @@ Test set: 0.84
 - Train set: 0.94
 - Validation set: 0.90
 - Test set: 0.84
+
+## Conclusão
+
