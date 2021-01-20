@@ -1,0 +1,8 @@
+1 - https://www.eso.org/public/images/babak-7325pano/
+2 - https://www.eso.org/public/images/potw2004a/
+3 - https://www.eso.org/public/images/eso0927c/
+4 - https://www.spacetelescope.org/images/heic0516d/
+5 - https://www.spacetelescope.org/images/opo0205b/
+6 - https://www.spacetelescope.org/images/heic0206j/
+7 - Google Earth
+8 - Stellarium

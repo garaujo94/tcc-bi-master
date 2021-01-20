@@ -1,0 +1,8 @@
+1 - https://www.spacetelescope.org/images/heic0913f/
+2 - https://www.eso.org/public/images/yb_southern_cross_cc/
+3 - https://www.eso.org/public/images/yb_southerncross_cc/
+4 - https://www.eso.org/public/images/2019_07_03_SouthernCross_SSpikes_Fin-CC/
+5 - https://www.eso.org/public/images/crux_pano_1_2/
+6 - https://www.eso.org/public/images/eso1629l/
+7 - Stellarium
+8 - Google Earth
